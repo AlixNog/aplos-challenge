@@ -1,8 +1,8 @@
-# 🚛 Palantir Developer Technical Challenge: Business Process Automation and Ontology Design
+# 🚛 Data Science Technical Challenge: Business Process Automation and Ontology Design
 
 ## 📚 Contexto
 
-Fui contratado como desenvolvedor Palantir Foundry em uma empresa de logística de médio porte que visa automatizar e modernizar suas operações de supply chain. Atualmente, os dados estão dispersos em vários sistemas, dificultando a tomada de decisão eficiente.
+Uma empresa de logística de médio porte que visa automatizar e modernizar suas operações de supply chain. Atualmente, os dados estão dispersos em vários sistemas, dificultando a tomada de decisão eficiente.
 
 Minha missão foi:
 
