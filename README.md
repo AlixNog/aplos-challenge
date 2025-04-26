@@ -124,7 +124,8 @@ Projeto desenvolvido para fins educacionais e demonstração técnica. Sem fins 
 
 ## 🖼️ Diagrama da Ontologia
 
-![Ontology Diagram](./A_diagram_on_ontology_in_business_process_automati.png)
+![image](https://github.com/user-attachments/assets/14b7a244-9e08-4391-8cd3-96d0e37d81ee)
+
 
 ---
 
